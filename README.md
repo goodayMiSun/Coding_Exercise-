@@ -11,10 +11,13 @@
 - hong.c
 - hool.c
 - money.c
-- p.c
 - prec.c
-- square.c
-- stack.c
+- sw3260.c
+- sw3408.c
+- sw3975.c
+- sw3376.c
+- sw2930.c
+- sw1859.c
 - sw1206.c
 - sw1226.c
 - sw1234.c
@@ -79,21 +82,6 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do
 [출력]
 각 테스트 케이스마다 영준이가 본 유니콘의 수와 트윈혼의 수를 공백으로 구분하여 출력한다.
 
-
-### p.c
-### prec.c
-엔터칠때까지 숫자를 입력받아 배열 받아 수를 합치는 코드입니다. 
-
-### sw3376.c
-https://swexpertacademy.com/main/code/problem/problemDetail.do
-
-[입력]
-첫 번째 줄에 테스트 케이스의 수 T가 주어진다.
-각 테스트 케이스의 첫 번째 줄에는 자연수 N(1 ≤ N ≤ 100 )이 주어진다.
-
-[출력]
-각 테스트 케이스마다 PN을 출력한다.
-
 ### square.c
 https://swexpertacademy.com/main/code/problem/problemDetail.do
 
@@ -104,6 +92,53 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do
 [출력]
 각 테스트 케이스마다 나머지 한 변의 길이를 출력한다.
 
+### prec.c
+엔터칠때까지 숫자를 입력받아 배열 받아 수를 합치는 코드입니다. 
+
+### sw3260.c
+https://swexpertacademy.com/main/code/problem/problemDetail.do
+
+[입력]
+첫 번째 줄에 테스트 케이스의 수 T가 주어진다.
+각 테스트 케이스마다 첫 번째 줄에 두 양의 정수 A, B(1 ≤ A, B< 10^100)가 공백으로 구분되어 주어진다.
+두 수는 0으로 시작되지 않는다.
+
+[출력]
+각 테스트 케이스마다 A+B값을 출력한다. 첫 번째 자리가 0으로 시작해서는 안 된다.
+
+### sw3408.c
+https://swexpertacademy.com/main/code/problem/problemDetail.do
+
+[입력]
+첫 번째 줄에 테스트 케이스의 수 T가 주어진다.
+각 테스트 케이스의 첫 번째 줄에는 자연수 N(1 ≤ N ≤ 109)가 주어진다.
+
+[출력]
+각 테스트 케이스마다 S1, S2, S3을 공백으로 구분하여 출력한다.
+
+### sw3975.c
+https://swexpertacademy.com/main/code/problem/problemDetail.do
+
+[입력]
+첫 번째 줄에 테스트 케이스의 수 T가 주어진다.
+각 테스트 케이스의 첫 번째 줄에는 네 자연수 A, B, C, D(1 ≤ A ≤ B ≤ 100, 1 ≤ C ≤ D ≤ 100)이 공백로 구분되어 주어진다.
+
+[출력]
+각 테스트 케이스마다 앨리스의 승률이 더 높으면 “ALICE”, 밥의 승률이 더 높으면 “BOB”, 둘의 승률이 같으면 “DRAW”를 출력한다.
+
+[힌트]
+첫 번째 Testcase를 예로 들면 엘리스는 2전 1승, 밥은 4전 2승이다.
+엘리스의 승률은 1/2 밥의 승률은 2/4로 서로 같으므로 “DRAW”를 출력한다.
+ 
+### sw3376.c
+https://swexpertacademy.com/main/code/problem/problemDetail.do
+
+[입력]
+첫 번째 줄에 테스트 케이스의 수 T가 주어진다.
+각 테스트 케이스의 첫 번째 줄에는 자연수 N(1 ≤ N ≤ 100 )이 주어진다.
+
+[출력]
+각 테스트 케이스마다 PN을 출력한다.
 
 ### sw2930.c
 https://swexpertacademy.com/main/code/problem/problemDetail.do
