@@ -70,8 +70,29 @@ https://swexpertacademy.com/main/code/problem/problemDetail.do
 초기값(모든bit가 0)에서 원래 값으로 복구하기 위한 최소 수정 횟수를 출력한다
 
 ### hool.c
+https://swexpertacademy.com/main/code/problem/problemDetail.do
+
+[입력]
+첫 번째 줄에 테스트 케이스의 수 T가 주어진다.
+각 테스트 케이스마다 첫 번째 줄에 두 정수 n, m (1 ≤ n ≤ 300, m ≤ n ≤ 2m)이 공백으로 구분되어 주어진다.
+
+[출력]
+각 테스트 케이스마다 영준이가 본 유니콘의 수와 트윈혼의 수를 공백으로 구분하여 출력한다.
+
+
 ### p.c
 ### prec.c
+엔터칠때까지 숫자를 입력받아 배열 받아 수를 합치는 코드입니다. 
+
+### sw3376.c
+https://swexpertacademy.com/main/code/problem/problemDetail.do
+
+[입력]
+첫 번째 줄에 테스트 케이스의 수 T가 주어진다.
+각 테스트 케이스의 첫 번째 줄에는 자연수 N(1 ≤ N ≤ 100 )이 주어진다.
+
+[출력]
+각 테스트 케이스마다 PN을 출력한다.
 
 ### square.c
 https://swexpertacademy.com/main/code/problem/problemDetail.do
